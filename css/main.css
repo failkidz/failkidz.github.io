@@ -39,6 +39,12 @@
   box-shadow: 0 0 5px rgba(0,100,0,50);
 }
 
+a, a:visited, a:hover, a:active {
+  color: #0c0;
+  text-shadow: 0 0 3px rgba(0,100,0,50);
+  text-decoration: none;
+}
+
 body {
     background-color: #000;
 }
